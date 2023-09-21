@@ -80,14 +80,6 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
-  orientation = mid-centered
-  x = 4
-  action = movebutton
-  y = 2
-}
-
-customization {
   identifier = %id=374294%
   action = hidebutton
 }
@@ -106,6 +98,14 @@ customization {
   x = -102
   action = movebutton
   y = 26
+}
+
+customization {
+  identifier = %id=606294%
+  orientation = mid-centered
+  x = 106
+  action = movebutton
+  y = -70
 }
 
 customization {
@@ -137,10 +137,10 @@ customization {
 }
 
 customization {
-  identifier = %id=606294%
+  identifier = %id=504342%
   orientation = mid-centered
-  x = 106
+  x = 4
   action = movebutton
-  y = -70
+  y = 2
 }
 
